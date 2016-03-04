@@ -47,18 +47,10 @@ function render (state) {
 
 template.html
 ```
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>shave template</title>
-  </head>
-  <body>
     <div>
       <h1>clicked <span id="count">0</span> times</h1>
       <button>click me!</button>
     </div>
-  </body>
-</html>
 ```
 
 # contributing
