@@ -1,3 +1,4 @@
+var fs = require('fs')
 //var h = require('virtual-dom/h')
 var main = require('main-loop')
 var shaved = require('shave-template')
