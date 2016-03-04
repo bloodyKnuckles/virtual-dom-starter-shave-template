@@ -6,7 +6,7 @@ and [shave-template](https://npmjs.com/package/shave-template)
 and [browserify](http://browserify.org)/[watchify](https://npmjs.com/package/watchify)
 with [npm run scripts](http://substack.net/task_automation_with_npm_run)
 
-[view the starter demo](http://bloodyknuckles.neocities.org/shave/)
+[view the shave-template starter demo](http://bloodyknuckles.neocities.org/shave/)
 
 # quick start
 
