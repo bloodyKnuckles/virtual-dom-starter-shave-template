@@ -1,5 +1,6 @@
 var h = require('virtual-dom/h')
 var main = require('main-loop')
+var shaved = require('shave-template')
 var loop = main({ n: 0 }, render, require('virtual-dom'))
 document.querySelector('#content').appendChild(loop.target)
 
