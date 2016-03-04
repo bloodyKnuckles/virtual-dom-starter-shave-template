@@ -25,6 +25,7 @@ $ npm start
 # starter code
 
 ``` js
+var fs = require('fs')
 var main = require('main-loop')
 var shaved = require('shave-template')
 
